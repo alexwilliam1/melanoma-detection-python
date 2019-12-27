@@ -1,6 +1,7 @@
 # Melanoma detection
 
-This application is developed as a part of our manuscript titled *"Skin cancer diagnostics with an all-inclusive smartphone application"* which can be accessed from [here].
+This application is developed as a part of our manuscript titled [Skin cancer diagnostics with an all-inclusive smartphone application](https://www.mdpi.com/2073-8994/11/6/790).
+
 
 The application reads dermoscopic lesion images and classfies them as melanoma or benign.
 It is developed using OpenCV 3.2.0 and Python 2.7
